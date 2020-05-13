@@ -1,0 +1,27 @@
+{
+  "streams": [
+    {
+      "title": "teste",
+      "description": "A really cool stream!",
+      "id": 1
+    },
+    {
+      "title": "My stream",
+      "description": "I created this stream",
+      "userId": "110506969925957019176",
+      "id": 3
+    },
+    {
+      "title": "Unexpected behaviour",
+      "description": "Oooops",
+      "userId": "110506969925957019176",
+      "id": 4
+    },
+    {
+      "title": "Testando",
+      "description": "teste de stream",
+      "userId": "110506969925957019176",
+      "id": 5
+    }
+  ]
+}
